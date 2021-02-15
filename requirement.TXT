@@ -1,0 +1,8 @@
+torch-encoding
+Cython
+ninja
+opencv-python
+panda
+matplotlib
+scikit-image
+pandas

@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python bts_main.py arguments_train_nyu_debug.txt
