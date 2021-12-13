@@ -1,6 +1,6 @@
 # VISTA-Net
 Official PyTorch code for [Variational Structured Attention Networks for Deep Visual Representation Learning](https://arxiv.org/pdf/2103.03510.pdf). <br>
-[Guanglei Yang](https://scholar.google.com/citations?user=DHgNKnAAAAAJ&hl=en), Paolo Rota , [Xavier Alameda-Pineda](http://xavirema.eu/students/), [Dan Xu](https://www.danxurgb.net/), Mingli Ding, [Elisa Ricci](https://scholar.google.com/citations?hl=en&user=xf1T870AAAAJ&view_op=list_works&sortby=pubdate). <br>
+[Guanglei Yang](https://scholar.google.com/citations?user=DHgNKnAAAAAJ&hl=en), Paolo Rota , [Xavier Alameda-Pineda](http://xavirema.eu/students/), [Dan Xu](https://www.danxurgb.net/), Mingli Ding, [Elisa Ricci](https://scholar.google.com/citations?hl=en&user=xf1T870AAAAJ&view_op=list_works&sortby=pubdate), accepted at IEEE Transactions on Image Processing (TIP). <br>
 TIP <br>
 Framework:
 ![image]( ./img/vista-net-inference.jpg)
@@ -113,6 +113,7 @@ CUDA_VISIBLE_DEVICES=0,1,2 python -m torch.distributed.launch train_surface_norm
 
 
 ## Citation
+Please consider citing the following paper if the code is helpful in your research work:
 ```
 @article{yang2021variational,
   title={Variational Structured Attention Networks for Deep Visual Representation Learning},
