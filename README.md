@@ -124,7 +124,7 @@ Please consider citing the following paper if the code is helpful in your resear
 @article{xu2020probabilistic,
   title={Probabilistic graph attention network with conditional kernels for pixel-wise prediction},
   author={Xu, Dan and Alameda-Pineda, Xavier and Ouyang, Wanli and Ricci, Elisa and Wang, Xiaogang and Sebe, Nicu},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAAMI)},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
   year={2020}
 }
 ```
