@@ -117,14 +117,14 @@ Please consider citing the following paper if the code is helpful in your resear
 @article{yang2021variational,
   title={Variational Structured Attention Networks for Deep Visual Representation Learning},
   author={Yang, Guanglei and Rota, Paolo and Alameda-Pineda, Xavier and Xu, Dan and Ding, Mingli and Ricci, Elisa},
-  journal={IEEE Transactions on Image Processing},
+  journal={IEEE Transactions on Image Processing (TIP)},
   year={2021}
 }
 
 @article{xu2020probabilistic,
   title={Probabilistic graph attention network with conditional kernels for pixel-wise prediction},
   author={Xu, Dan and Alameda-Pineda, Xavier and Ouyang, Wanli and Ricci, Elisa and Wang, Xiaogang and Sebe, Nicu},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAAMI)},
   year={2020}
 }
 ```
