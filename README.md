@@ -120,4 +120,11 @@ CUDA_VISIBLE_DEVICES=0,1,2 python -m torch.distributed.launch train_surface_norm
   journal={TIP},
   year={2021}
 }
+
+@article{xu2020probabilistic,
+  title={Probabilistic graph attention network with conditional kernels for pixel-wise prediction},
+  author={Xu, Dan and Alameda-Pineda, Xavier and Ouyang, Wanli and Ricci, Elisa and Wang, Xiaogang and Sebe, Nicu},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2020}
+}
 ```
