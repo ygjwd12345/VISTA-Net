@@ -117,7 +117,7 @@ Please consider citing the following paper if the code is helpful in your resear
 @article{yang2021variational,
   title={Variational Structured Attention Networks for Deep Visual Representation Learning},
   author={Yang, Guanglei and Rota, Paolo and Alameda-Pineda, Xavier and Xu, Dan and Ding, Mingli and Ricci, Elisa},
-  journal={TIP},
+  journal={IEEE Transactions on Image Processing},
   year={2021}
 }
 
