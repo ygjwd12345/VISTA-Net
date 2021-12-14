@@ -82,7 +82,7 @@ CUDA_VISIBLE_DEVICES=1 python bts_test.py arguments_test_eigen.txt
 python ../utils/eval_with_pngs.py --pred_path vis_att_bts_eigen_v2_pytorch_att/raw/ --gt_path ./dataset/kitti_dataset/ --dataset kitti --min_depth_eval 1e-3 --max_depth_eval 80 --do_kb_crop --garg_crop
 ```
 ### Segmentation
-for mult GPU, we recommand is `at least 4 GPU at least 12 GB`. at least `2 GPU at least 24GB`
+for mult GPU, we recommand is `at least 4 GPU at least 12 GB` or `at least 2 GPU at least 24GB`
 
 Train
 ```bash
